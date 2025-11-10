@@ -1,0 +1,9 @@
+user_id,game_id,game_name,note,purchase,quantité,wishlist
+1,101,Pandemic,5,1,2,0
+1,102,Catan,4,0,1,1
+2,101,Pandemic,4,1,1,0
+2,103,Ticket to Ride,5,1,3,0
+3,104,Carcassonne,5,0,1,1
+3,102,Catan,3,0,2,0
+4,101,Pandemic,4,1,2,0
+4,104,Carcassonne,3,0,1,1
